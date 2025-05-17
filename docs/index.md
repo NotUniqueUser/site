@@ -1,8 +1,6 @@
 
-## מתמטיקה
-נניח ויש לי $x$ כך שקיים $n\in\mathbb{N^2}$ עבורו
+## שלום :)
+כאן עומד להיות מידע על סטטיסטיקה!!
 $$
-\forall \varepsilon > 0 : |x - n| < \varepsilon
+f(x;\mu,\sigma^{2})=\frac{1}{\sigma \sqrt{ 2\pi }}e^{ -\frac{1}{2}\left( \frac{x-\mu}{\sigma} \right)^{2} }
 $$
-
-נניח ו-$x^{2}=\begin{pmatrix} \gamma & \epsilon \end{pmatrix}$. כעת נוכל
