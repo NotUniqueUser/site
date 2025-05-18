@@ -1,5 +1,9 @@
-site_name: Statistics Struggle 
+site_name: Statistics Struggle
+site_description: AAaaa WIP
 site_url: https://gilad.page
+site_author: Gilad
+repo_url: https://github.com/NotUniqueUser/site
+repo_name: קוד מקור
 nav:
   - 'בית': 'index.md'
   - 'תוכן':
@@ -35,6 +39,8 @@ theme:
     - navigation.instant.progress
     - navigation.sections
     - navigation.expand
+  icon:
+    repo: fontawesome/brands/github
 
 markdown_extensions:
   - md_in_html
