@@ -37,6 +37,7 @@ theme:
     - navigation.expand
 
 markdown_extensions:
+  - md_in_html
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.emoji:
